@@ -6,9 +6,9 @@ namespace LinqApplication.LinqApplication.Domain.Entities
     public class Pet
     {
         public int Id { get; }
-        public string Name { get; }
-        public PetType PetType { get; }
-        public float Weight { get; }
+        public string Name { get; set; }
+        public PetType PetType { get; set; }
+        public float Weight { get; set; }
 
         public Pet(int id, string name, PetType petType, float weight)
         {
