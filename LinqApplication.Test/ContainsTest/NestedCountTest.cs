@@ -2,7 +2,6 @@
 using FluentAssertions;
 using LinqApplication.LinqApplication.Domain.Entities;
 using LinqApplication.LinqApplication.Library.Contains;
-using System.Xml.XPath;
 
 
 namespace LinqApplication.Test.ContainsTest
