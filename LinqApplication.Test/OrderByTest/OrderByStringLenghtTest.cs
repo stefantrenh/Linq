@@ -1,5 +1,4 @@
-﻿using AutoFixture;
-using FluentAssertions;
+﻿using FluentAssertions;
 using LinqApplication.LinqApplication.Library.OrderBy;
 
 

@@ -1,7 +1,6 @@
 ﻿
 using FluentAssertions;
 using LinqApplication.LinqApplication.Library.All;
-using System.Xml.Serialization;
 
 namespace LinqApplication.Test.AllTest
 {

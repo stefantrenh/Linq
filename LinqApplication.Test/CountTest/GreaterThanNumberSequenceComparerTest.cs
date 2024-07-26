@@ -2,7 +2,6 @@
 
 using FluentAssertions;
 using LinqApplication.LinqApplication.Library.Count;
-using LinqApplication.Test.AnyTest;
 
 namespace LinqApplication.Test.CountTest
 {
