@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.Where
+﻿namespace LinqApplication.LinqApplication.Library.Where
 {
     /*
      Implement the GetProperlyIndexedWords method, which takes a collection of words as a parameter, and returns only those words, that start with a proper index. A proper index shall say at which place the word in the collection is. So the first word shall start with "1.", the third shall start with "3." etc.

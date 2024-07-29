@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.OrderBy
+﻿namespace LinqApplication.LinqApplication.Library.OrderBy
 {
     public class OrderByExercise1
     {

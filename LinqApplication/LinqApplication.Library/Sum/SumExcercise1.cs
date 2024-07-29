@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.Sum
+﻿namespace LinqApplication.LinqApplication.Library.Sum
 {
     /*
     Implement the TotalLength method, which given a collection of words will calculate the sum of their lengths.

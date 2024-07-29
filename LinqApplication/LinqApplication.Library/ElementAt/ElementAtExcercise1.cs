@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.ElementAt
+﻿namespace LinqApplication.LinqApplication.Library.ElementAt
 {
     /*
      Using LINQ, implement the IsTheNumberAtIndexTheLargest method.

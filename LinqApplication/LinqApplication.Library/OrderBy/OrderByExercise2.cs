@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.OrderBy
+﻿namespace LinqApplication.LinqApplication.Library.OrderBy
 {
     /*
      Using LINQ, implement the FirstEvenThenOddDescending method, which orders numbers like this:

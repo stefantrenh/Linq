@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.FirstAndLast
+﻿namespace LinqApplication.LinqApplication.Library.FirstAndLast
 {
     /*
      Implement the FindFirstNameInTheCollection method, which takes a collection of strings as a parameter, 

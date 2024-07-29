@@ -2,11 +2,6 @@
 using FluentAssertions;
 using LinqApplication.LinqApplication.Domain.Entities;
 using LinqApplication.LinqApplication.Library.Where;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LinqApplication.Test.WhereTest
 {
