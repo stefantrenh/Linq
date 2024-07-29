@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace LinqApplication.LinqApplication.Domain.Entities
 {
-    public class NumbersList
+    public class Student
     {
-        public IEnumerable<int> NumberIenumerable { get; set; }
+        public string Name { get; set; }
+        public IEnumerable<int> Marks { get; set; }
     }
 }

@@ -8,7 +8,7 @@ namespace LinqApplication.Test.AverageTest
     public class AverageNumbersTest
     {
         protected AverageExercise2 exercise2;
-        protected List<NumbersList> numbersList;
+        protected List<Student> numbersList;
         protected Fixture fixture;
         public AverageNumbersTest()
         {
@@ -19,19 +19,19 @@ namespace LinqApplication.Test.AverageTest
 
         private void BuildMockData()
         {
-            var numbersBuilder = fixture.Build<NumbersList>()
-                .With(x => x.NumberIenumerable, fixture.CreateMany<int>(5)
+            var numbersBuilder = fixture.Build<Student>()
+                .With(x => x.Marks, fixture.CreateMany<int>(5)
                 .Select(x => (x % 5) + 1).ToList());
-            numbersList = numbersBuilder.CreateMany<NumbersList>(4).ToList();
+            numbersList = numbersBuilder.CreateMany<Student>(4).ToList();
 
             numbersList.Add(CreateNumbersListWithSpecificValues(5, 5));
         }
 
-        private NumbersList CreateNumbersListWithSpecificValues(int count, int value)
+        private Student CreateNumbersListWithSpecificValues(int count, int value)
         {
-            return new NumbersList
+            return new Student
             {
-                NumberIenumerable = Enumerable.Repeat(value, count).ToList()
+                Marks = Enumerable.Repeat(value, count).ToList()
             };
         }
     }

@@ -22,10 +22,10 @@ namespace LinqApplication.LinqApplication.Library.Average
      */
     public class AverageExercise2
     {
-        public double MaxAverageOfMarks(IEnumerable<NumbersList> students)
+        public double MaxAverageOfMarks(IEnumerable<Student> students)
         {
             return students.Any() ? 
-                students.Max(x => x.NumberIenumerable.Any() ? x.NumberIenumerable.Average() : 0) : 0;
+                students.Max(x => x.Marks.Any() ? x.Marks.Average() : 0) : 0;
         }
     }
 }
