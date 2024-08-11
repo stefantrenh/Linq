@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.TakeExercise1
+﻿namespace LinqApplication.LinqApplication.Library.TakeExercise1
 {
     /*
      Implement the TakeSome method, which returns a certain part of the collection, according to this algorithm:

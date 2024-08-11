@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.Skip
+﻿namespace LinqApplication.LinqApplication.Library.Skip
 {
     /*
      Using LINQ, implement the GetWordsBetweenStartAndEnd method which given a list of words, will return all words that lay between words "START" and "END".
