@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.Select
+﻿namespace LinqApplication.LinqApplication.Library.Select
 {
     /*
      Imagine you work on an application that retrieves data from scanned paper documents. 

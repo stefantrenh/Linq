@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.ConcatAndUnion
+﻿namespace LinqApplication.LinqApplication.Library.ConcatAndUnion
 {
     /*
      Implement the CleanWord method, which given a string that can consist of letters and non-letter characters, will return a new string, where all letters proceed the non-letter characters. 

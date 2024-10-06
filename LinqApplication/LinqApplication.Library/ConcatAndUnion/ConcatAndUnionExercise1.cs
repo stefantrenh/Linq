@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.ConcatAndUnion
+﻿namespace LinqApplication.LinqApplication.Library.ConcatAndUnion
 {
     /*
      Imagine you are working on a news website. On the main panel of this website, we want to show the most important news, as well as the most recent ones.
