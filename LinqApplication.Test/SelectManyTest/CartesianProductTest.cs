@@ -1,7 +1,5 @@
 ﻿using FluentAssertions;
 using LinqApplication.LinqApplication.Library.SelectMany;
-using LinqApplication.Test.MinMaxTest;
-using System.Runtime.Intrinsics.X86;
 
 namespace LinqApplication.Test.SelectManyTest
 {

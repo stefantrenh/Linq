@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LinqApplication.LinqApplication.Library.GenerateCollection
+﻿namespace LinqApplication.LinqApplication.Library.GenerateCollection
 {
     /*
      Implement the NewYearsEvesSince method, which given an initialYear and yearsCount parameters, will build a dictionary with the key being the year, and the value being the day of the week (as string) of the New Year's Eve. Please assume the New Year's Eve is on the 31st of December (according to the Gregorian calendar).

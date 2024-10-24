@@ -1,7 +1,6 @@
 ﻿using AutoFixture;
 using FluentAssertions;
 using LinqApplication.LinqApplication.Library.GenerateCollection;
-using Xunit;
 
 namespace LinqApplication.Test.GenerateCollectionTest
 {

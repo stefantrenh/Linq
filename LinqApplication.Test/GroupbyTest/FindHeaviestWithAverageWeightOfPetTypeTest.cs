@@ -3,11 +3,6 @@ using FluentAssertions;
 using LinqApplication.LinqApplication.Domain.Entities;
 using LinqApplication.LinqApplication.Domain.Enums;
 using LinqApplication.LinqApplication.Library.GroupBy;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LinqApplication.Test.GroupbyTest
 {
